@@ -27,5 +27,5 @@ I'm Carlos and I'm studying a B.S. in Computer Science and Technology. I have st
 
 ## Contact
 - [Email](mailto:juancmtz777@gmail.com) me
-- [Juan Carlos Martínez](https://www.linkedin.com/in/juan-carlos-martínez-840569259) on LinkedIn
+- [Juan Carlos Martínez](https://www.linkedin.com/in/jcarlosmtzz/) on LinkedIn
 - [JCarlosMZ#8122](./) on Discord
