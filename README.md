@@ -14,7 +14,10 @@ I'm Carlos and I'm pursuing a B.S. in Computer Science and Technology. I have st
 
 
 **Technologies**
-
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png"></code>
+<code><img height="20" src="https://pbs.twimg.com/profile_images/1377340526890872832/Qvi0U8pF_400x400.jpg"></code>
+<code><img height="20" src="[https://pbs.twimg.com/profile_images/1377340526890872832/Qvi0U8pF_400x400.jpg](https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2013.png)"></code>
+<code><img height="20" src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="20" src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code>
