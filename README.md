@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Carlos and I'm studying a B.S. in Computer Science and Technology. I have strong academic achievement and volunteering experience. I can handle different technologies and I'm keen to pursue a Software Development career in web platforms (Full Stack), as well as mobile ones.
+I'm Carlos and I'm pursuing a B.S. in Computer Science and Technology. I have strong academic achievement and volunteering experience. I can handle different technologies and I'm keen to pursue a Software Development career in web platforms (Full Stack), as well as mobile ones.
 
 **Languages**
 
